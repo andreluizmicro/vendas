@@ -1,6 +1,6 @@
 # Projeto de estudo criado com React
 
-Este projeto é pode ser encontrado em [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é pode ser encontrado em [Projeto Vendas](https://github.com/andreluizmicro/vendas).
 ### Criando novo projeto com React
 
 `npx create-react-app nomeProjeto`

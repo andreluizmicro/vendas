@@ -3,6 +3,7 @@ import { Switch, Route } from 'react-router-dom';
 
 import Home from './pages/Home';
 import About from './pages/About';
+import NotFound from './pages/NotFound';
 
 const Menu = () => {
     return (
@@ -12,6 +13,9 @@ const Menu = () => {
             </Route>
             <Route exact path="/sobre">
                 <About />
+            </Route>
+            <Route>
+                <NotFound />
             </Route>
         </Switch>
     );

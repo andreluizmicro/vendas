@@ -12,10 +12,10 @@ Ao executar o projeto em modo development
 Abir em [http://localhost:3000](http://localhost:3000) para visualizar o projeto em seu browser.
 
 ### Dependências
-* StyledComponents 5.3.0
-* ReactStrap 8.9.0
 * antd 4.16.5
 * bootstrap: 5.0.2
+* ReactStrap 8.9.0
+* js-cookie 2.2.1
 * react: 17.0.2
 * react-dom: 17.0.2
 * react-redux: 7.2.4
@@ -24,7 +24,7 @@ Abir em [http://localhost:3000](http://localhost:3000) para visualizar o projeto
 * reactstrap: 8.9.0
 * redux: 4.1.0
 * redux-persist: 6.0.0
-
+* StyledComponents 5.3.0
 
 ### Instalção das dependências
 

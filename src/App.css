@@ -1,13 +1,11 @@
-.avatar {
-  border: 2px solid #000;
-  text-align: center;
-  padding: 20px;
-  width: 100px;
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+
+* {
+  box-sizing: border-box;
 }
 
-.avatar img {
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  border: 1px solid #ccc;
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #EEE;
 }

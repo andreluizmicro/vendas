@@ -1,10 +1,10 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 
-import Home from './Pages/Home';
-import About from './Pages/About';
+import Home from './pages/Home';
+import About from './pages/About';
 
-export default () => {
+const Menu = () => {
     return (
         <Switch>
             <Route exact path="/">
@@ -16,3 +16,5 @@ export default () => {
         </Switch>
     );
 }
+
+export default Menu;
